@@ -16,6 +16,6 @@ In order to access this project, you will need to download all the of the files 
 
 
 ## Project Details
-This was a project given to students during Week 8 in the Coding Program at MIT XPro for students to bring their CSS, HTML and JavaScript skills together. 
+This was a project given to students during Week 8 in the Coding Program at MIT XPro for students to better understand and apply skills in manipulating styles. We learned how to watch HTML, JavaScript and CSS come together!
 
 
